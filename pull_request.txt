@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FarfunctionA
+=======
+edawakare
+>>>>>>> master
